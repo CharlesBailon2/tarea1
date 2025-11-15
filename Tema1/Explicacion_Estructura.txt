@@ -1,0 +1,11 @@
+Explicación de Orden de Datos en Estructura
+
+Las estructuras están diseñadas para mapear directamente con el formato de los archivos de texto, facilitando la lectura y escritura secuencial de registros.
+
+1. ESTRUCTURA Producto (Inventario):
+   - Campos: Codigo_producto, Nombre_producto, cantidad_disponible, costo, precio_venta
+   - Justificación: El orden de los campos corresponde directamente al orden de los datos en "producto.txt", lo que permite usar fscanf y fprintf de manera eficiente.
+
+2. ESTRUCTURA Vendedor (Usuario):
+   - Campos: usuario, clave, nombre
+   - Justificación: Mapea directamente el archivo "vendedores.txt" para la carga rápida y la verificación de credenciales durante el inicio de sesión.

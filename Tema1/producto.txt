@@ -1,0 +1,2 @@
+P001,Laptop Dell,2,500.00,750.00
+P002,Mouse Inalambrico,20,15.00,10.00
