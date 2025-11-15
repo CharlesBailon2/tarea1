@@ -6,7 +6,7 @@
 #include "productos.h"
 
 #define MAX_ITEMS 50 // Maximo de productos en una venta
-
+////EDITADO POR MI EN LA COPIA
 // Funcion para obtener la fecha actual en formato aaaa-mm-dd
 void obtener_fecha_actual(char *fecha_str) {
     time_t t = time(NULL);
